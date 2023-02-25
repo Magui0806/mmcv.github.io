@@ -1,0 +1,18 @@
+
+h1 { width: 1000px;
+    height: 100px;
+    margin: 40px;
+    margin-left: 200px
+    ;text-align: center;box-sizing: border-box ;background-color: plum;
+font-size: 500%;}
+head {font-size: x-large;}
+header {text-align: left;}
+body {font-weight: bold;background-color:pink;}
+
+aside {background-color:plum; font-size: x-large; font-family: 'Times New Roman', Times, serif; border: 2px solid black; width: 600px;height:800px; float: right;}
+article {background-color: plum; font-size: x-large; border: 2px solid black; width: 700px; height: 800px; float: left; }
+
+footer { font-size: xx-large;}
+
+
+button {background-color:plum;}

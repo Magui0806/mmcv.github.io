@@ -3,7 +3,7 @@ h1 { width: 1000px;
     height: 100px;
     margin: 40px;
     margin-left: 200px
-    ;text-align: center;box-sizing: border-box ;
+    ;text-align: center;box-sizing: border-box ;border: 2px solid black;
 font-size: 500%;}
 head {font-size: x-large;}
 header {text-align: left;}

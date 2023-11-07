@@ -22,11 +22,4 @@ document.getElementById("botoncruz").addEventListener("click", function(){
       x.style.display = "none";
     }
   });
-  document.getElementById("py").addEventListener("click", function(){
-    var x = document.getElementById("py");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  });
+ 
